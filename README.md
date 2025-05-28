@@ -65,7 +65,6 @@ Who Should Use This?
   Final Thoughts
     This script is a versatile, ready-to-use tool for anyone needing automated weather insights for Bengaluru. It demonstrates API integration, data processing, and visualization in Python, making it a great learning resource for beginners and intermediate coders.
 
-
 "OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/2bb2ae6e-fe98-46e4-bc1d-44d4de74084c)
